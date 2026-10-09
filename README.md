@@ -1,16 +1,6 @@
-# UrbanFix
+# UrbanFix - Projekt do zglaszania usterek miejskich
 
-# Update Zadanie 3
-- utworzono bazę PostgreSQL w któej przechowywane są dane kont
-- zgłaszanie usterek działa, każde zgłoszenie przypisywane jest do zalogowanego użytkownika, dostępne do podglądu przez webhooki
-- każde zgłoszenie ma odpowiedni status rozpatrywania
-- Użytkownik Official ma dostęp do wszystkich zgłoszeń, oraz może zmieniać ich status
-- Użytkownicy mają możliwość oddawania głosów na zgłoszenia społeczności
-
-Projekt do zglaszania usterek miejskich:
-- aplikacja Android (Kotlin + Firebase Auth),
-- backend FastAPI (Python 3.11),
-- PostgreSQL.
+UrbanFix to aplikacja na Androida do zgłaszania problemów w przestrzeni miejskiej. Mieszkańcy mogą dodać zgłoszenie ze zdjęciem i lokalizacją, śledzić jego status oraz wspierać zgłoszenia społeczności. Backend udostępnia API do obsługi użytkowników i zgłoszeń.
 
 ## Funkcje
 
