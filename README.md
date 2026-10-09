@@ -1,5 +1,7 @@
 # UrbanFix - Projekt do zglaszania usterek miejskich
 
+UrbanFix to aplikacja na Androida do zgłaszania problemów w przestrzeni miejskiej. Mieszkańcy mogą dodać zgłoszenie ze zdjęciem i lokalizacją, śledzić jego status oraz wspierać zgłoszenia społeczności. Backend udostępnia API do obsługi użytkowników i zgłoszeń.
+
 ## Funkcje
 
 - Rejestracja i logowanie uzytkownika przez Firebase.
